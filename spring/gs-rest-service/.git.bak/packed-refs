@@ -1,0 +1,32 @@
+# pack-refs with: peeled fully-peeled sorted 
+72d408acc5806c8b585ea8ff98e56efbccc845e2 refs/remotes/origin/autowired-ctor
+f0e0e58dbb186212c0626f67e1f329842700f6e6 refs/remotes/origin/categories
+c2fa3b4b9b36a42ebc81f818face318982207d32 refs/remotes/origin/completed
+51515885b8163c78b50631098cc25feed3cc6465 refs/remotes/origin/gregturn-master
+f910620c6afb5af72ed9e033646a3a83792280b1 refs/remotes/origin/hide-show
+355d07ce80b5d60004761241c99b0e4c6cac7792 refs/remotes/origin/master
+e644a5f49a4cc1c85105d1b2c31cbc39a19c3989 refs/remotes/origin/no_cat_no_toc
+5ccf877a192081eddffc1b97bfb61b98ee00f24c refs/remotes/origin/refactor
+47d53affd473738b3fbeee7fcbb4a7bf89551fc1 refs/tags/0.1.0
+457d20a72787b597b4b20999bcf85321b919529e refs/tags/1.4.1.RELEASE
+ba006361a9dbbf0d13ee07dd7a76d9d089515e7f refs/tags/1.4.2.RELEASE
+0a52469cfd0b2d5c189f5911c3e3c2c258867256 refs/tags/1.4.3.RELEASE
+56d74e608fca857e0187d305dc23f5cc5777ba48 refs/tags/1.5.1.RELEASE
+06de9042def70861c4ca4a66d564a25417a425f8 refs/tags/1.5.10.RELEASE
+de1507cd615e84221e1c596d0cac8907d0e858a5 refs/tags/1.5.2.RELEASE
+fb6ae95cbefe09e092da3ca858bfe329dfcf38ae refs/tags/1.5.5.RELEASE
+d3a3d4d79a2863254f5d1e2638587eb4658cc6db refs/tags/1.5.9.RELEASE
+00e8e46661ce4a22d2ce7e6d785312f0d0397d07 refs/tags/2.0.0.RELEASE
+d930b891366da31a93d385779bc9bc5c89898f6c refs/tags/2.0.1.RELEASE
+a1b292ba59c54a2372654f79dd4d7014c373b212 refs/tags/2.0.2.RELEASE
+35e9bb97bf9286fb4bab2799dccd98d0fa440c17 refs/tags/2.0.3.RELEASE
+4d4c7bdea52c7baac6e39914eefb3b26ebc208f4 refs/tags/2.0.5.RELEASE
+533b7a78fad85379f17a25acbd0c451c03d5c6ee refs/tags/2.0.8.RELEASE
+1ff4fcc06d2d5f93973cab8a80b007047c042688 refs/tags/2.1.3.RELEASE
+c5e83235d31eaf65805d9755dcdc2efbbd8e3579 refs/tags/2.1.4.RELEASE
+bcfa3be0e8eaed24f684c112c4a4d8550ed12f37 refs/tags/2.1.6.RELEASE
+d3a3d4d79a2863254f5d1e2638587eb4658cc6db refs/tags/edgware.release
+06de9042def70861c4ca4a66d564a25417a425f8 refs/tags/edgware.sr2
+82463c2fb2a7db433ee247c965800c53984f9be5 refs/tags/finchley.sr2
+ad666bfd36663cb9fd5888c997fa14ccc4befafd refs/tags/maven
+^e22191c0a7aa70aea5c17d7e80f3080f5d2c079d
